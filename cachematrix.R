@@ -15,7 +15,7 @@
 # and caches the inverse of the matrix.
 ####
 ##
-#### 1.makeCacheMatrix 
+#### 1. makeCacheMatrix 
 # makeCacheMatrix - this function creates a special "matrix" object 
 # that can cache its inverse.
 # The cache operates in a similar manner as does the main memory (RAM),but is smaller
