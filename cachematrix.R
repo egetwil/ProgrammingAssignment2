@@ -1,4 +1,3 @@
-# Programming Assignment 2: Caching the Inverse of a Matrix
 #### Programming Assignment 2: Caching the Inverse of a Matrix
 #
 # Matrix inversion is usually a costly computation.
@@ -75,13 +74,13 @@ cacheSolve <- function(x, ...) {
 ##
 ####
 # TEST EXAMPLES 
-# This is a test examples to evaluate functions makeCacheMatrix and cacheSolve 
+# These are test examples to evaluate functions makeCacheMatrix and cacheSolve 
 # Results is copied from RStudio Console, C:Users/EGW/ProgrammingAssignment2
 ####
 ####
 # TEST EXAMPLE 1
 #
-# 1. Run both functions on Rstudio Console
+# 1. Run both functions in RStudio console
 #
 # 2. Define a 2x2 matrix called x
 #
@@ -150,7 +149,7 @@ getting cached data
 ####
 # TEST EXAMPLE 2
 #
-# 1. Run both functions on Rstudio Console
+# 1. Run both functions in RStudio console
 #
 # 2. Define a 3x3 matrix called x
 #
@@ -232,7 +231,7 @@ w1    w2    w3
 ####
 # TEST EXAMPLE 3
 #
-# 1. Run both functions on Rstudio Console
+# 1. Run both functions in RStudio console
 #
 # 2. Define a 3x3 matrix called x
 #
